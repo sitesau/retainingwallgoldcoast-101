@@ -1,0 +1,22 @@
+{
+  "wheel_id": 453,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-101",
+  "project": "retaining-walls-gold-coast-diy-vs-professional-1bb7fd03f34a8055",
+  "parent_t1_ref": "retainingwallgoldcoast-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining walls gold coast diy vs professional",
+  "intended_url": "http://retaining-walls-gold-coast-diy-vs-professional-1bb7fd03f34a8055.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "094fc186d8cce77f",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallgoldcoast-150/",
+      "anchor": "https://sitesau.github.io/retainingwallgoldcoast-150/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
